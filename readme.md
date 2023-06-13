@@ -1,4 +1,4 @@
-# Pokedex
+# ChatApp
 A simple project with a whatsapp looking that you can switch between rooms.
 
 ## Techs:
